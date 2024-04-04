@@ -1,0 +1,20 @@
+ 
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    <script>
+        //IMPORTANCE:take a input to user and sum two numbers
+    let firstNumber=prompt("enter the first number",1)
+    let secondNumber=prompt("enter second number" ,2)
+      alert( 'sum of two numbers' +firstNumber + +secondNumber)
+//that exmple show the 12 in string not give the 3 o/p then convert  that string into number just like tht
+
+
+    </script>
+ </body>
+ </html>
